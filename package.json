@@ -1,0 +1,15 @@
+{
+  "name": "javelin",
+  "version": "1.0.0",
+  "description": "An experience sharing platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier-format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,json}' --config ./.prettierrc.json"
+  },
+  "author": "Gidrex",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}

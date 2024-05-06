@@ -1,0 +1,84 @@
+.navsearch {
+    padding-left: 1em;
+    width: 50em;
+}
+.user-stats {
+    padding-right: 1em;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: rgb(225, 225, 225);
+    background-color: rgb(225, 225, 225);
+    padding-left: 1em;
+    color: purple;
+}
+nav .navbarr a {
+    color: purple;
+}
+nav {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: purple;
+}
+.navsearchbtn {
+    color: purple;
+    border-color: purple;
+}
+.navsearchbtn:hover {
+    background-color: black;
+    color: purple;
+}
+.Dialogsbar {
+    border-style: solid;
+    border-radius: 30px;
+    border-color: rgb(225, 225, 225);
+    background-color: rgb(225, 225, 225);  
+    height: 40em;
+    padding: 0;
+    background-color:  rgb(225, 225, 225);
+    max-height: 40em;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+} 
+.infoframebar {
+    border-style: solid;
+    border-radius: 30px;
+    border-color: rgb(225, 225, 225);
+    background-color: rgb(225, 225, 225);
+    height: 50em;
+    padding-top: 1em;
+    max-height: 50em;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.swapbtn {
+    color: purple;
+    background-color: rgb(225, 225, 225);
+}
+.swapbtn:hover {
+    background-color: black;
+    color: purple;
+}
+.sbtn {
+    text-align: center;
+}
+.list-group-item {
+    background-color: rgb(225, 225, 225);
+}
+.dialogframe {
+    border-style: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0, 0, 0, 0.411);
+}
+.lasttime {
+    font-size: 0.75em;
+}
+.loginbtn {
+    color: purple;
+    background-color: rgb(225, 225, 225);
+    border-radius: 30px;
+}
+.loginbtn:hover {
+    background-color: black;
+    color: purple;
+}

@@ -1,0 +1,28 @@
+.loginbar {
+    border-radius: 30px;
+    height: 350px;
+    background-color: rgb(225, 225, 225);
+    padding: 2em;
+    margin-top: 5em;
+    color: purple;
+}
+.lgbtn {
+    background-color: purple;
+    border-color: purple;
+}
+.lgbtn:hover
+{
+    background-color: black;
+    color: purple;
+}
+h2 {
+    margin-bottom: 0.5em;
+}
+.helplink {
+    text-decoration: none;
+    color: purple;
+}
+.helplink:hover {
+    text-decoration: none;
+    color: blueviolet;
+}
