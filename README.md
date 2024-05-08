@@ -2,13 +2,13 @@
 Experience sharing service for students primary
 
 # MVP TODO:
-- [ X ] the first version of this site 
-	- [ X ] adaptive layout
+- ☑ the first version of this site 
+	- ☑ adaptive layout
 	- [ ] dark / light theme
 	- [ ] keybinds shortcuts 
 - [ ] create "trading" function part
 - [ ] planning a database
-- [ X ] link db with js program and creating a registration form  
+- ☑ link db with js program and creating a registration form  
 - [ ] apart of messaging between users
 
 # Special Functions:
