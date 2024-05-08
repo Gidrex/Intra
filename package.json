@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
   }
 }
