@@ -1,0 +1,26 @@
+.regbar {
+    border-radius: 30px;
+    height: 500px;
+    background-color: rgb(225, 225, 225);
+    padding: 2em;
+    margin-top: 5em;
+    color: rgb(129, 40, 129);
+}
+.regbtn {
+    margin-top: 0.5em;
+    border-color: rgb(129, 40, 129);
+    background-color: rgb(129, 40, 129);
+}
+.regbtn:hover {
+    background-color: black;
+    color: purple;
+}
+.helpreglink {
+    text-decoration: none;
+    color: rgb(129, 40, 129);
+}
+.helpreglink:hover {
+    text-decoration: none;
+    color: blueviolet;
+}
+

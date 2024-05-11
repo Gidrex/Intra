@@ -1,0 +1,25 @@
+UI-фреймворки :
+- https://ant.design/
+- https://material-ui.com/
+- https://blueprintjs.com
+- https://semantic-ui.com
+- SASS / styled-components
+J5-библиотеки и фронт:
+— Redux
+— Antd
+— Formik
+— React Router
+— Socket.IO
+Сервер:
+- NodeJS (ExpressJS)
+- MongoDB / Mongoose
+
+.user-stats {
+    padding-right: 1em;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: rgb(225, 225, 225);
+    background-color: rgb(225, 225, 225);
+    padding-left: 1em;
+    color: rgb(129, 40, 129);
+}

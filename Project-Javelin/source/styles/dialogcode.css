@@ -1,0 +1,46 @@
+.infodialogframe {
+    position: relative;
+    border-radius: 10px;
+}
+.inputbar {
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+    margin: 0.5em;
+}
+.sendbtn {
+    background-color: rgb(150, 76, 220);
+    color: black;
+}
+.sendbtn:active {
+    background-color: purple;
+    background-color: black;
+}
+.sendbtn:hover {
+    color: purple;
+    background-color: black;
+}
+.message {
+    margin-bottom: 10px;
+}
+
+.receiver {
+    display: flex;
+    border-style: solid;
+    border-color: #f8f9fa;
+    border-width: 50%;
+    background-color: #f8f9fa; 
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: right;
+}
+.sender {
+    display: flex;
+    border-style: solid;
+    border-color: #007bff;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: left;
+}
