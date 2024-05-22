@@ -13,12 +13,12 @@
       in
       {
         devShell = pkgs.mkShell {
-          buildInputs = [
-            pkgs.nodejs
-            pkgs.sqlite
-            pkgs.nodePackages.express
-            pkgs.nodePackages.body-parser
-            pkgs.nodePackages.sqlite3
+          buildInputs = with pkgs; [
+            nodejs
+            sqlite
+            nodePackages.express
+            nodePackages.body-parser
+            nodePackages.sqlite3
           ];
 
           shellHook = ''
