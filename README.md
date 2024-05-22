@@ -7,7 +7,7 @@ Experience sharing service for students primary
 	- [ ] dark / light theme
 	- [ ] keybinds shortcuts 
 - [ ] create "trading" function part
-- [ ] planning a database
+- ☑ planning a database
 - ☑ link db with js program and creating a registration form  
 - [ ] apart of messaging between users
 
