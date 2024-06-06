@@ -81,7 +81,14 @@ nav {
     height: 2em;
     padding: 0;
     width: 100%;
+    border-radius: 50%;
 }
 .personlogo {
     height: 3.5em;
+}
+.imagefile {
+    width: 35em;
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
